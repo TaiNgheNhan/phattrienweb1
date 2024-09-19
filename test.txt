@@ -1,3 +1,9 @@
 test.txt
+<<<<<<< HEAD
 test conflict pull
+=======
+abc
+fasfaf
+a
+>>>>>>> origin/main
 
